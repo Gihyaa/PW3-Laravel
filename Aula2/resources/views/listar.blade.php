@@ -34,7 +34,7 @@
                 </nav>
 
                 <P>
-                <h5>Cadastrar - Agendamento de Potencias Clientes</h5>
+                <h5>Cadastrar - Agendamento de Potenciais Clientes</h5>
                 </P>
                 <br>
                 <h6>Sistema Utilizado para agendamento de serviços.</h6>
