@@ -40,6 +40,7 @@
                 <h6>Sistema Utilizado para agendamento de serviços.</h6>
 
                 <P></P>
+                <div class= "table-responsive">
                 <table class="table table-dark">
                     <thead>
                         <tr>
@@ -53,6 +54,7 @@
                         </tr>
                     </thead>
                 </table>
+             </div>
 
 </body>
 
